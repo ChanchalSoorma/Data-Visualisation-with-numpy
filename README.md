@@ -1,4 +1,4 @@
-# Data-Visualization-with-numpy
+# Data-Visualization-with-python
 
 This repository is dedicated to creating high-quality data visualizations in Python by pairing the powerful numerical capabilities of NumPy with popular plotting libraries like Matplotlib.
 
