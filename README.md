@@ -11,5 +11,5 @@ This repository is dedicated to creating high-quality data visualizations in Pyt
 ## Resources:
 
 Matplotlib - Visualization with python <br/>
-[https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://matplotlib.org/&ved=2ahUKEwjq967O976PAxVHyqACHeu1ABAQFnoECBcQAQ&usg=AOvVaw0YgZr7XYZzco6IDaGIE2sw
-https://www.google.com/url?]
+[ https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://matplotlib.org/&ved=2ahUKEwjq967O976PAxVHyqACHeu1ABAQFnoECBcQAQ&usg=AOvVaw0YgZr7XYZzco6IDaGIE2sw
+https://www.google.com/url? ]
